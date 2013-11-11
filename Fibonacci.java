@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
 
-public class Fbonacci 
+public class Fibonacci 
 {
     static long[] values = new long[100];
 	static DecimalFormat formatter = new DecimalFormat("#,###");
